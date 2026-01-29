@@ -132,7 +132,7 @@ todoList.addEventListener('click', (event) => {
 ```
 
 1. What is the name for this approach to event handling? What is the alternative and why is this approach better?
-2. Explain what the `element.closest(selector)` method does and why it is essential to this approach.
+2. Explain what the `event.target.closest('li')` method does and why it is essential to this approach.
 
 **Your Answer:**
 
